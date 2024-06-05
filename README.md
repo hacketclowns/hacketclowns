@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## [![GitHub Streak](https://streak-stats.demolab.com/?user=hacketclowns)](https://git.io/streak-stats)
+## [![GitHub Streak](https://streak-stats.demolab.com?user=hacketclowns&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **hacketclowns/hacketclowns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
